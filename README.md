@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 💻 Desenvolvedor Full Stack na INFINITY SCOLL
-- 🌱 Cursando Aalise e desinvolvimento de sistemas na Faculdade Estacio
+- 🌱 Cursando Analise e desinvolvimento de sistemas na Faculdade Estacio
 - 🌱 Estudando Python, JavaScript, Node.js, React Native, Java, C++ dentre outras linguagens
 - 🗄️ Banco de Dados: MySQL e SQLite
 - 🚀 Sempre aprendendo novas tecnologias
