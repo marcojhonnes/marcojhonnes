@@ -15,10 +15,14 @@
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcojhonnes&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcojhonnes&show_icons=true&theme=tokyonight)
 
-## 💻 Linguagens mais usadas
+## Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcojhonnes&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcojhonnes&layout=compact&theme=tokyonight)
+
+## Contato
+
+- GitHub: https://github.com/marcojhonnes
