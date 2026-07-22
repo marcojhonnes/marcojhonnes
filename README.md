@@ -30,6 +30,8 @@ https://pizzariadesafio.000webhostapp.com/
 
 https://loja-cabulo-zofinalizda.vercel.app/
 
+https://projeto-final-infinty.vercel.app/
+
 ## Contato
 
 - GitHub: https://github.com/marcojhonnes
